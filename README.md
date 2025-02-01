@@ -21,5 +21,5 @@
 Para usar este proyecto, primero clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/disi3r/amigo-secreto.git
 cd amigo-secreto
